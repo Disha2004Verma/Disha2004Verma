@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **disha2004verma@gmail.com**
 
-- ⚡ Fun fact: People call me Disha Ki Direction
+<!--  ⚡ Fun fact: People call me Disha Ki Direction -->-
 
 </div>
 </p>    
